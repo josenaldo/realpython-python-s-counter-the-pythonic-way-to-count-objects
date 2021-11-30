@@ -1,7 +1,7 @@
 # $TITULO_DO_CURSO$
 
-Esse repositório contém os exercícios e anotações do curso
-[TITULO](LINK), da Alura.
+Esse repositório contém os exercícios e anotações do tutorial
+[Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/), do [Realpython](https://realpython.com/).
 
 ## Ferramentas usadas nesse repositótio
 
