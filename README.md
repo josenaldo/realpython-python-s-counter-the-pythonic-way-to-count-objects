@@ -1,7 +1,9 @@
-# $TITULO_DO_CURSO$
+# Python's Counter: The Pythonic Way to Count Objects
 
 Esse repositório contém os exercícios e anotações do tutorial
 [Python's Counter: The Pythonic Way to Count Objects](https://realpython.com/python-counter/), do [Realpython](https://realpython.com/).
+
+O notebooks resultante pode ser encontrado em [notebook/python-counter.ipynb](notebook/python-counter.ipynb)
 
 ## Ferramentas usadas nesse repositótio
 
